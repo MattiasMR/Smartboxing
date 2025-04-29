@@ -1,0 +1,81 @@
+﻿Box,Doctor,Especialidad,Fecha,Desde,Hasta
+1,Dr. Isabel Martínez,Ginecología,2024-06-13,14:00,16:00
+1,Dr. Teresa Díaz,Ginecología,2024-06-13,16:00,20:00
+1,Dr. Juan Carlos López,Ginecología,2024-06-13,20:00,22:00
+2,Dr. Laura González,Medicina General,2024-06-13,08:00,14:00
+2,Dr. Sergio Ruiz,Medicina General,2024-06-13,14:00,16:00
+2,Dr. Joaquín González,Medicina General,2024-06-13,16:00,20:00
+2,Dr. Paula Martínez,Medicina General,2024-06-13,20:00,22:00
+3,Dr. Carlos Rodríguez,Pediatría,2024-06-13,08:00,14:00
+3,Dr. Elena Torres,Pediatría,2024-06-13,14:00,16:00
+3,Dr. Lucía Rodríguez,Pediatría,2024-06-13,16:00,20:00
+3,Dr. Hugo Sánchez,Pediatría,2024-06-13,20:00,22:00
+4,Dr. Ana López,Otorrino,2024-06-13,08:00,14:00
+4,Dr. Ricardo López,Otorrino,2024-06-13,14:00,16:00
+4,Dr. Tomás Herrera,Otorrino,2024-06-13,16:00,20:00
+4,Dr. Claudia Rodríguez,Otorrino,2024-06-13,20:00,22:00
+5,Dr. Luis García,Cardiología,2024-06-13,08:00,14:00
+5,Dr. Carmen Fernández,Cardiología,2024-06-13,14:00,16:00
+5,Dr. Paula Sánchez,Cardiología,2024-06-13,16:00,20:00
+5,Dr. José Pérez,Cardiología,2024-06-13,20:00,22:00
+6,Dr. Beatriz Fernández,Dermatología,2024-06-13,08:00,14:00
+6,Dr. Francisco González,Dermatología,2024-06-13,14:00,16:00
+6,Dr. Ricardo Torres,Dermatología,2024-06-13,16:00,20:00
+6,Dr. Laura Torres,Dermatología,2024-06-13,20:00,22:00
+7,Dr. Roberto Díaz,Neurología,2024-06-13,08:00,14:00
+7,Dr. Patricia Pérez,Neurología,2024-06-13,14:00,16:00
+7,Dr. Isabel Pérez,Neurología,2024-06-13,16:00,20:00
+7,Dr. Roberto González,Neurología,2024-06-13,20:00,22:00
+8,Dr. María Herrera,Psiquiatría,2024-06-13,08:00,14:00
+8,Dr. Martín Sánchez,Psiquiatría,2024-06-13,14:00,16:00
+8,Dr. Sergio Ibarra,Psiquiatría,2024-06-13,16:00,20:00
+8,Dr. Isabel Ibarra,Psiquiatría,2024-06-13,20:00,22:00
+9,Dr. Miguel Ibarra,Traumatología,2024-06-13,08:00,14:00
+9,Dr. Laura Rodríguez,Traumatología,2024-06-13,14:00,16:00
+9,Dr. Rodrigo Jiménez,Traumatología,2024-06-13,16:00,20:00
+9,Dr. Marta Pérez,Traumatología,2024-06-13,20:00,22:00
+11,Dr. Claudia García,Ginecología,2024-06-13,12:00,18:00
+12,Dr. Alejandro Martínez,Medicina General,2024-06-13,12:00,18:00
+13,Dr. Susana Torres,Pediatría,2024-06-13,12:00,18:00
+14,Dr. Esteban López,Otorrino,2024-06-13,12:00,18:00
+15,Dr. Andrés Fernández,Cardiología,2024-06-13,12:00,18:00
+16,Dr. Victoria Sánchez,Dermatología,2024-06-13,12:00,18:00
+17,Dr. Iván Pérez,Neurología,2024-06-13,12:00,18:00
+18,Dr. Diana Ibarra,Psiquiatría,2024-06-13,12:00,18:00
+19,Dr. Felipe Jiménez,Traumatología,2024-06-13,12:00,18:00
+20,Dr. José Jiménez,Endocrinología,2024-06-13,08:00,14:00
+20,Dr. Hugo González,Endocrinología,2024-06-13,14:00,16:00
+20,Dr. Ana Ruiz,Endocrinología,2024-06-13,16:00,18:00
+20,Dr. Marta González,Endocrinología,2024-06-13,18:00,20:00
+20,Dr. Luis Fernández,Endocrinología,2024-06-13,20:00,22:00
+21,,,,,
+22,,,,,
+23,,,,,
+24,,,,,
+25,,,,,
+26,,,,,
+27,Dr. Alejandro Jiménez,Traumatología,2024-06-13,18:00,22:00
+28,,,,,
+29,Dr. Sergio Martínez,Cardiología,2024-06-13,18:00,22:00
+30,Dr. Antonio López,Ginecología,2024-06-13,18:00,22:00
+31,Dr. Carolina González,Medicina General,2024-06-13,18:00,22:00
+32,Dr. Pedro Sánchez,Pediatría,2024-06-13,18:00,22:00
+33,Dr. Paula Díaz,Otorrino,2024-06-13,18:00,22:00
+34,,,,,
+35,Dr. Fernando Rodríguez,Dermatología,2024-06-13,18:00,22:00
+36,Dr. Teresa Pérez,Neurología,2024-06-13,18:00,22:00
+37,Dr. Guillermo Ibarra,Psiquiatría,2024-06-13,18:00,22:00
+38,,,,,
+39,Dr. Juan Hernández,Endocrinología,2024-06-13,18:00,22:00
+40,,,,,
+41,,,,,
+42,,,,,
+43,,,,,
+44,,,,,
+45,,,,,
+46,,,,,
+47,,,,,
+48,,,,,
+49,,,,,
+50,,,,,
+51,Ignacia Castillo,Neurocirugía,2024-06-13,08:00,22:00
